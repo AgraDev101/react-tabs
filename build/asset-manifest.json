@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85c9a7a2.css",
+    "main.js": "/static/js/main.f312b3a4.js",
+    "static/js/787.0d4f3b43.chunk.js": "/static/js/787.0d4f3b43.chunk.js",
+    "static/media/video.mp4": "/static/media/video.918fa53485566cea5e87.mp4",
+    "static/media/puzzle.svg": "/static/media/puzzle.cdf4d2c0b6b68cdbbaa187c26faf1e57.svg",
+    "static/media/robot.svg": "/static/media/robot.99d3c58ea1614d0f57b1d9fed1f4c62c.svg",
+    "static/media/plug.svg": "/static/media/plug.f65b66b9b7167c0c473177ae75120f88.svg",
+    "index.html": "/index.html",
+    "static/media/clipboard.svg": "/static/media/clipboard.24234b146e19c85c710381b26f65ca67.svg",
+    "static/media/views_icon.svg": "/static/media/views_icon.4c511b05f1713180e5dd070087dd3bc0.svg",
+    "static/media/layout-three-columns.svg": "/static/media/layout-three-columns.6ef3f51224f64d0d7dbb2c052af99c56.svg",
+    "static/media/bar-chart-line-fill.svg": "/static/media/bar-chart-line-fill.5a41b6ec4d2e0fdcfb56e89eaf7597ed.svg",
+    "main.85c9a7a2.css.map": "/static/css/main.85c9a7a2.css.map",
+    "main.f312b3a4.js.map": "/static/js/main.f312b3a4.js.map",
+    "787.0d4f3b43.chunk.js.map": "/static/js/787.0d4f3b43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c9a7a2.css",
+    "static/js/main.f312b3a4.js"
+  ]
+}
